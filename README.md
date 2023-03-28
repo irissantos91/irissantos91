@@ -1,8 +1,7 @@
 <div align="center"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Íris</h1>
-<h3 align="center">I'm a cybersecurity!<br>
-I work as a photographer and entrepreneur in my regular hours.</h3>
+<h3 align="center">I'm a cybersecurity student and aspiring security analyst!<br></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irissantos91&label=Profile%20views&color=0e75b6&style=flat" alt="irissantos91" /> </p>
 
