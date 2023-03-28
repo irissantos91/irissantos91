@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Íris</h1>
-<h3 align="center">I'm a computer science and web development student!<br>
+<h3 align="center">I'm a cybersecurity!<br>
 I work as a photographer and entrepreneur in my regular hours.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irissantos91&label=Profile%20views&color=0e75b6&style=flat" alt="irissantos91" /> </p>
@@ -10,30 +10,22 @@ I work as a photographer and entrepreneur in my regular hours.</h3>
 
 <p align="center"> <a href="https://twitter.com/iriswebdev_" target="blank"><img src="https://img.shields.io/twitter/follow/iriswebdev_?logo=twitter&style=for-the-badge" alt="iriswebdev_" /></a> </p>
 
-- 🔭 I’m currently working on **improving my knowledge of CSS and JavaScript.**
+- 🔭 I’m currently working on **learning OSI layers and the attacks prpetrated to each layer**
 
-- 🌱 I’m currently learning **CSS & JavaScript.**
-
-- 👯 I’m looking to collaborate on **open source projects on GitHub.**
-
-- 🤝 I’m looking for help with **improving my problem solving skills (algorithms and data structures).**
-
-- 👨‍💻 All of my projects are available at [https://github.com/irissantos91](https://github.com/irissantos91)
+- 🌱 I’m currently learning **Networking fundamentals**
 
 - 💬 Ask me about **the basics of Linux commands and Git :)**
 
-- 📫 How to reach me **irisdossantos.webdev@gmail.com**
+- 📫 How to reach me **iriscyb3r@gmail.com**
 
 - ⚡ Fun fact **I read 50 books/year (or at least I try to).**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/irissantos91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="irissantos91" height="30" width="40" /></a>
-<a href="https://twitter.com/iriswebdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iriswebdev_" height="30" width="40" /></a>
+<a href="[https://www.codewars.com/users/irissantos91]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="irissantos91" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iris-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iris-santos" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/irissantos91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irissantos91" height="30" width="40" /></a>
-<a href="https://instagram.com/theirissantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theirissantos" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/irissantos91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irissantos91" height="30" width="40" /></a>
+<a href="https://instagram.com/iriscyb3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iriscyb3r" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
