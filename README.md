@@ -7,8 +7,6 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=irissantos91&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=irissantos91&theme=dracula" alt="irissantos91" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/iriswebdev_" target="blank"><img src="https://img.shields.io/twitter/follow/iriswebdev_?logo=twitter&style=for-the-badge" alt="iriswebdev_" /></a> </p>
-
 - 🔭 I’m currently working on **learning OSI layers and the attacks prpetrated to each layer**
 
 - 🌱 I’m currently learning **Networking fundamentals**
