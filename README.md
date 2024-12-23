@@ -1,19 +1,15 @@
 <div align="center"><img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Íris</h1>
-<h3 align="center">I'm a cybersecurity student and aspiring security analyst!<br></h3>
+<h3 align="center">I'm a cybersecurity engineer and I'm honing my coding skills in my free time!<br></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irissantos91&label=Profile%20views&color=0e75b6&style=flat" alt="irissantos91" /> </p>
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=irissantos91&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=irissantos91&theme=dracula" alt="irissantos91" /></a> </p>
 
-- 🔭 I’m currently working on **learning OSI layers and the attacks prpetrated to each layer**
+- 🔭 I’m currently working on **passing CySA+ certification**
 
-- 🌱 I’m currently learning **Networking fundamentals**
-
-- 💬 Ask me about **the basics of Linux commands and Git :)**
-
-- 📫 How to reach me **iriscyb3r@gmail.com**
+- 🌱 I’m currently learning **Learn to Code by Solving Problems by Daniel Zingaro**
 
 - ⚡ Fun fact **I read 50 books/year (or at least I try to).**
 
