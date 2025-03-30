@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=irissantos91&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=irissantos91&theme=dracula" alt="irissantos91" /></a> </p>
 
-- 🔭 I’m currently working on **a script**
+- 🔭 I’m currently working on **super-secret personal projects**
 
-- 🌱 I’m currently learning **Learn to Code by Solving Problems by Daniel Zingaro**
+- 🌱 I’m currently reading **Learn to Code by Solving Problems by Daniel Zingaro**
 
 - ⚡ Fun fact **I read 20 books/year (or at least I try to).**
 
